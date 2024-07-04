@@ -1,4 +1,3 @@
-```markdown
 # Docker Cheatsheet
 
 **Docker**: Tool to install software without headache. It creates an isolated environment in our system and allocates some physical resources to run containers.
@@ -49,4 +48,3 @@
   - `docker build . && docker run image` → `docker-compose up --build`.
 
 **Note**: This cheatsheet covers only Docker, not Kubernetes.
-```
